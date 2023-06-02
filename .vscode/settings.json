@@ -1,5 +1,3 @@
 {
-  "editor.semanticTokenColorCustomizations": {
-    
-  }
+  "editor.semanticTokenColorCustomizations": {}
 }
