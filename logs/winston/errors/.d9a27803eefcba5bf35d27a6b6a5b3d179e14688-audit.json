@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\.d9a27803eefcba5bf35d27a6b6a5b3d179e14688-audit.json",
+    "files": [
+        {
+            "date": 1685860622757,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-12error.log",
+            "hash": "15f18d1b293705c2b27d0de0fcf3cd576da4f699e0fef8170566963cd8af9f8d"
+        }
+    ],
+    "hashType": "sha256"
+}

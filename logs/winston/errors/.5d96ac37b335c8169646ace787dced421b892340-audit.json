@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\.5d96ac37b335c8169646ace787dced421b892340-audit.json",
+    "files": [
+        {
+            "date": 1685860625037,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-12-error.log",
+            "hash": "554fe29745cb8caf95c81d0c0ebabc661de045a7bbf406d6543719a7edfd8eb8"
+        },
+        {
+            "date": 1685869829623,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-15-error.log",
+            "hash": "21241bbf480de891af3e6705dee411c23ca481033736bb882de60a81d35eb678"
+        },
+        {
+            "date": 1685877440277,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-17-error.log",
+            "hash": "704182010ab29eace31e769dbff18882b94449e1326fd74e1dd72a69959a6c11"
+        },
+        {
+            "date": 1685881431605,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-18-error.log",
+            "hash": "e721c4b5f7861795ca8526c8975b2d70a5433cac2ae9ce9e772de444afa35c7b"
+        },
+        {
+            "date": 1685883675061,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-19-error.log",
+            "hash": "ef1a336b63de6485e61237c12a153a6332ed2fd79914475a6e146e29fdd9a086"
+        },
+        {
+            "date": 1685895025069,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-04-06-22-error.log",
+            "hash": "ab66ca619badaae142b08dbb534fc0abb13d03fb54359a72d31495e81eb7bf16"
+        },
+        {
+            "date": 1685941809821,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-05-06-11-error.log",
+            "hash": "df4264763ac0f7dc4c2b3cd7b781b6b8ff549e408d0dfe090b8db61ae5c51195"
+        },
+        {
+            "date": 1685958726457,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-05-06-15-error.log",
+            "hash": "b6214d89beaa7efdae5a0a8f7be9b81b50179295cbbb3a348cc7c04ede948f5a"
+        },
+        {
+            "date": 1685963686512,
+            "name": "C:\\Users\\mahedi anik\\Desktop\\apollo-PH\\university-ph-project\\logs\\winston\\errors\\PHU-2023-05-06-17-error.log",
+            "hash": "5d72b46afc66e6e30c8592e7c97e954a596903c7bb4aaea405c34a6b604b2da1"
+        }
+    ],
+    "hashType": "sha256"
+}
