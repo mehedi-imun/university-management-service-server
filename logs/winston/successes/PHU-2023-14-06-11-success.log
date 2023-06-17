@@ -1,0 +1,28 @@
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-14T05:24:08.783Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-14T05:24:08.802Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-14T05:55:39.620Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-14T05:55:39.631Z'
+}

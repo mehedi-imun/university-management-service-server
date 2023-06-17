@@ -1,0 +1,126 @@
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:24:43.310Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:24:43.323Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:24:47.575Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:24:47.585Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:15.570Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:15.580Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:18.346Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:18.358Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:24.236Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:24.247Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:37.674Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:37.687Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:45.049Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:26:45.062Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:29:37.032Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:29:37.043Z'
+}
+{
+  message: 'db connect successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:58:08.985Z'
+}
+{
+  message: 'university app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'Ph',
+  timestamp: '2023-06-16T15:58:08.999Z'
+}

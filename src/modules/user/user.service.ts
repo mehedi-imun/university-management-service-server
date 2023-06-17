@@ -1,21 +1,21 @@
-import { IUser } from './user.interface'
-import { User } from './user.model'
-import { generatedId } from './user.utils'
+import { IUser } from './user.interface';
+import { User } from './user.model';
+import { generatedId } from './user.utils';
 
 const createUserService = async (userData: IUser): Promise<IUser | null> => {
-  const id = await generatedId()
-  userData.id = id
+  const id = await generatedId();
+  userData.id = id;
 
   if (!userData.password) {
-    userData.password = process.env.DEFAULT_USER_PASS as string
+    userData.password = process.env.DEFAULT_USER_PASS as string;
   }
-  const result = await User.create(userData)
+  const result = await User.create(userData);
   if (!result) {
-    throw Error('Create to failed user')
+    throw Error('Create to failed user');
   }
-  return result
-}
+  return result;
+};
 
 export default {
   createUserService,
-}
+};
