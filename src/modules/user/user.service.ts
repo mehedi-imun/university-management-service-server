@@ -1,9 +1,8 @@
 import { IUser } from './user.interface';
 import { User } from './user.model';
-import { generatedId } from './user.utils';
-
+import { generateStudentId } from './user.utils';
 const createUserService = async (userData: IUser): Promise<IUser | null> => {
-  const id = await generatedId();
+  const id = await generateStudentId();
   userData.id = id;
 
   if (!userData.password) {

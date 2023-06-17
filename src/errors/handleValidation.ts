@@ -1,6 +1,6 @@
-import mongoose from 'mongoose'
-import { IGenericErrorMessage } from './errorInterface'
-import { IGenericErrorResponse } from './errorResponseInterface'
+import mongoose from 'mongoose';
+import { IGenericErrorMessage } from './errorInterface';
+import { IGenericErrorResponse } from './errorResponseInterface';
 const handleValidationError = (
   err: mongoose.Error.ValidationError
 ): IGenericErrorResponse => {
@@ -9,16 +9,16 @@ const handleValidationError = (
       return {
         path: el?.path,
         message: el?.message,
-      }
+      };
     }
-  )
+  );
 
-  const statusCode = 400
+  const statusCode = 400;
   return {
     statusCode,
     message: 'user validation error',
     errorMessages: errors,
-  }
-}
+  };
+};
 
-export default handleValidationError
+export default handleValidationError;
